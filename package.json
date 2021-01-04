@@ -1,0 +1,16 @@
+{
+  "name": "be-social",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx next dev",
+    "build": "npx next build",
+    "start": "npx next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
